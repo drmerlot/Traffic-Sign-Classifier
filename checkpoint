@@ -1,2 +1,3 @@
-model_checkpoint_path: "andret"
+model_checkpoint_path: "nre_net"
 all_model_checkpoint_paths: "andret"
+all_model_checkpoint_paths: "nre_net"
