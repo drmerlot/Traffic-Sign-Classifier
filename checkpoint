@@ -1,3 +1,2 @@
-model_checkpoint_path: "train_45"
-all_model_checkpoint_paths: "train_1"
-all_model_checkpoint_paths: "train_45"
+model_checkpoint_path: "train_50-50"
+all_model_checkpoint_paths: "train_50-50"
