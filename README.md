@@ -13,9 +13,9 @@ This repository demonstrates using tensorflow to build and train a simple convol
 * And this image correctly as "yeild" even though it is partially covered by snow:
 <img src="pics/test_signs/snow_covered_yield.png" width="100"/>
 
-* And apparently there's a 76% chance I'm a road work sign. See the resemblance?:
+* And apparently there's a 59% chance I'm a speed limit sign See the resemblance?:
 
-<img src="pics/me_big.jpg" width="70"/>               <img src="pics/compare_signs/road_work.jpg" width="100"/>
+<img src="pics/me_big.jpg" width="70"/>               <img src="pics/60_kph.jpg" width="100"/>
 
 
 ### Launch the Ipython notebook here: 
